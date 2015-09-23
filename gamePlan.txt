@@ -1,0 +1,19 @@
+LANDING PAGE
+-NAV BAR
+  -Answered
+  -Notanswered
+  -Question
+
+Click Question
+  -Form QUESTION CONTROLLER
+    -Description input
+    -Question Input
+    -Submit button for the question
+  -
+
+CLICK NOT ANSWERED
+  -List questions that are not answered by oldest
+
+Click Answered Questions
+  -Show by newest question answered
+  -Have up votes for best answer

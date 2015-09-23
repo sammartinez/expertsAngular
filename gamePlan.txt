@@ -17,3 +17,11 @@ CLICK NOT ANSWERED
 Click Answered Questions
   -Show by newest question answered
   -Have up votes for best answer
+
+Factories
+ -Utilities
+ -User
+
+Controllers
+  -Questions
+  -Answers

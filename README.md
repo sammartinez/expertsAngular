@@ -6,7 +6,7 @@
 
 ## Description
 
-_Eperts is an ask & tell app where a user can ask a question and an espert can answer_
+_Experts is an ask & tell app where a user can ask a question and an expert can answer_
 
 ## Setup
 ### MAC

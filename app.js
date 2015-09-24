@@ -18,6 +18,4 @@ experts.config(function($stateProvider, $urlRouterProvider) {
     controller:'AnswersCtrl'
   });
 
-
-
 });

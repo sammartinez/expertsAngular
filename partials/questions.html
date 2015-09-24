@@ -1,0 +1,20 @@
+<div ng-show="users.length">
+  <h1>Here are all the questions</h1>
+  <ul>
+    <li ng-repeat="question in users"></li>
+    <a ui-sref="">{{ question.questionTitle }}</a>
+  </ul>
+</div>
+
+
+<div class="col-md-4">
+  <h3>Add your question below:</h3>
+  <form ng-submit="UserFactory.addQuestion()" class="form-inline" role="form">
+    <div class="form-group">
+      <input type="test" ng-model="UserFactory.questionTitle" class="form-control" placeholder="Enter a question here">
+    </div>
+    <button type="submit" class="btn btn-warning">Submit</button>
+  </form>
+</div>
+
+<div ui-view></div>
